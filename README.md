@@ -10,4 +10,5 @@ HTML
 CSS
 JavaScript
 OpenWeather API
-![Uploading Screenshot 2024-08-15 235241.png…]()
+
+![Screenshot 2024-08-15 235241](https://github.com/user-attachments/assets/082a1847-fc74-491e-8bca-935aa51141ec)
